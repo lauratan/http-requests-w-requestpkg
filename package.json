@@ -1,0 +1,22 @@
+{
+  "name": "http-req-req",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauratan/http-requests-w-requestpkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauratan/http-requests-w-requestpkg/issues"
+  },
+  "homepage": "https://github.com/lauratan/http-requests-w-requestpkg#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
